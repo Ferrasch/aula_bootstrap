@@ -1,0 +1,28 @@
+/*cor de barra*/
+.navbar {
+    background-color: #548a22;
+}
+
+.body{
+    font: 20px Arial, sans-serif;
+
+}
+.quem-somos{
+    background-color:rgb(243, 242, 241);
+    color:rgb(0, 0, 0);
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 50px;
+
+}
+
+.parceiros{
+    background-color:rgb(243, 242, 241);
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
